@@ -1,0 +1,20 @@
+{
+  "name": "cards",
+  "version": 2,
+  "alias": "cards.kbn.one",
+  "env": {},
+  "functions": {
+    "api/test/index.ru": {
+      "runtime": "@now/ruby@1.0.1"
+    },
+    "api/card.ru": {
+      "runtime": "@now/ruby@1.0.1"
+    }
+  },
+  "regions": ["hnd1"],
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+  ]
+}
+
