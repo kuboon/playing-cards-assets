@@ -1,7 +1,6 @@
 {
   "name": "cards",
   "version": 2,
-  "alias": "cards.kbn.one",
   "env": {},
   "functions": {
     "api/cards.ru": {
